@@ -18,6 +18,7 @@ Add a dependency on `akymos/logger` to your `composer.json` file.
 * $enabled  bool  true, enable logging
 * $isHtml   bool  true, output is HTML
 
+The log method are
 
     $log->i($tag,$message); //INFO
     $log->d($tag,$message); //DEBUG
