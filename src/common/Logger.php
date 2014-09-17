@@ -1,6 +1,6 @@
 <?php
 
-namespace Akymos\Common;
+namespace Akymos\Logger\Common;
 
 /**
  * @package   logger
